@@ -1,9 +1,6 @@
-# docker-lempstack
-A boilerplate for a LEMP stack made of Docker containers
+# A Docker LEMP stack boilerplate
 
-LEMP
-
-Linux, (E)Nginx, MySQL, PHP
+## LEMP -> Linux, (E)Nginx, MySQL, PHP
 
 This pulls official containers and stan ds them up so you have a LEMP stack dev environment in no time. 
 
